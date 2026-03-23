@@ -2,6 +2,8 @@
 
 Small Unity Editor-only stress tool for faking a slow PC.
 
+![CPU Stall Simulator](https://github.com/TonkersTinkers/Unity-Cpu-Stall-Simulator/blob/main/CpuStallSimulator.png?raw=true)
+
 ## What it does
 
 Combines:
